@@ -14,11 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: tawsif
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: tawsif1130@gmail.com
+description: I write about software, research engineering and DevOps of AI and Machine learning here. I have a separate research blog and website to document research-specific stuff.
 twitter_username: sleeping4cat
 github_username: sleepingcat4
 minimal_mistakes_skin: contrast
@@ -60,25 +57,25 @@ plugins:
 author:
   name   : "tawsif"
   avatar : "/assets/images/shocked-cat.jpg"
-  bio    : "I write about software, research engineering and devOps here."
+  bio    : "I write about software, research engineering and DevOps here."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-regular fa-browser"
       url: "https://sleeping4cat.github.io/sleepingcat/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://x.com/sleeping4cat"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/sleepingcat4"
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://x.com/sleeping4cat"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/sleepingcat4"
 
 defaults:
