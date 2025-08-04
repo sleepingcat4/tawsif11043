@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm tawsif (otherwise known as Ammar), I used to be an artificial intelligence lead at Harvard GAMI, where I worked for almost two years before leaving to become a Computational Neuroscience researcher at Donders Institute through Genzel lab. I was there for two years and then pivoted to open-source contributions and leading my own projects for research papers. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Currently, I work and collab with LAION and Israeli universities at a regular interval and have high-frequency and impactful projects with them. I also work independently and lead my own team and have sponsors, donations and EU grants supporting me. Most of these donations are provided through dark channels (meaning no questions asked and I only need to publish the work). 
+
+In this blog, I write about Software Engineering, research software engineering and DevOps. I have separate research blog and personal website. https://sleeping4cat.github.io/sleepingcat/ and 
+https://sleeping4cat.github.io/sleepingcat/blog.html
